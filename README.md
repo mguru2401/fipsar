@@ -9,6 +9,7 @@ The Fipsar File Management System is a web application designed for users to upl
    - Drag-and-drop functionality for file uploads.
    - Supports multiple file formats:
      - .doc, .docx
+     - .txt
      - .pdf
      - .ppt, .pptx
      - .xls, .xlsx
@@ -20,6 +21,7 @@ The Fipsar File Management System is a web application designed for users to upl
    - Preview types:
      - PDFs displayed using an inline iframe.
      - Excel files displayed in a table format.
+     - text files displayed.
      - Word documents rendered using `react-file-viewer`.
    - Search functionality.
 
@@ -136,9 +138,13 @@ Successfull File Upload
 ![image](https://github.com/user-attachments/assets/1d1ed2d9-2910-4812-aaf5-aa14cb9da87c)
 Uploaded Files Shown Here 
 
+![image](https://github.com/user-attachments/assets/48efe08b-cd03-48e5-9941-45235040b0b0)
 ![image](https://github.com/user-attachments/assets/469b2a0d-8da0-40cd-a4e8-6502ad720b50)
 ![image](https://github.com/user-attachments/assets/9e9da55a-f94f-4eec-88f4-4a561a9106c3)
 ![image](https://github.com/user-attachments/assets/6635a5f1-84d2-4b53-9d54-8d49e3003d94)
+![image](https://github.com/user-attachments/assets/f84c7613-10db-4d27-92b1-d7e02a8a1546)
+
+
 Uploading Multiple File Upload 
 ![image](https://github.com/user-attachments/assets/8ed689c4-9625-4eae-87c8-6bc2e057cce1)
 Download Functions
